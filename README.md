@@ -22,4 +22,4 @@ sudo ./RAGZ
 
 Choose from options # 1-8
 
-Enjoy!
+Use Responsibly!
