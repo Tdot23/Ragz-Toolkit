@@ -8,4 +8,6 @@ chmod +x setup.sh
 sudo ./setup.sh
 # Usage
 sudo ./RAGZ.sh
+
+
 Choose options 1-8
