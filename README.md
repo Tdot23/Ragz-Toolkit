@@ -1,5 +1,5 @@
 # Ragz-Toolkit
-Ragz toolkit is a combination of various tools to test my home SIEM system.
+Ragz toolkit is a combination of various tools for testing my home SIEM system.
 # Installation
 git clone https://github.com/Tdot23/Ragz-Toolkit.git 
 
